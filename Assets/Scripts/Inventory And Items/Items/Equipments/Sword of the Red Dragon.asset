@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3085466cec0e43459435a72e67ae1e5, type: 3}
+  m_Name: Sword of the Red Dragon
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Sword of the Red Dragon
+  icon: {fileID: 4309181079396169080, guid: 47d933a8f697abc4e89d5bf0325cea2b, type: 3}
+  itemId: d22c605c28e45c24fabc3e710d458814
+  dropChance: 0
+  equipmentType: 0
+  damage: 50
+  hp: 0
+  armor: 30

@@ -1,0 +1,309 @@
+{
+    "arrow": 
+    [
+        {
+            "skillLevel": 1,
+            "skillCooldown": 1.5,
+            "skillDamage": 5,
+            "skillDescription": "You shoot an arrow where you are facing."
+        },
+
+        {
+            "skillLevel": 2,
+            "skillCooldown": 1.5,
+            "skillDamage": 7.5,
+            "skillDescription": "Your arrows deal %50 more damage."
+        },
+
+        {
+            "skillLevel": 3,
+            "skillCooldown": 1,
+            "skillDamage": 7.5,
+            "skillDescription": "Arrow cooldown has been reduced by %33."
+        },
+
+        {
+            "skillLevel": 4,
+            "skillCooldown": 1,
+            "skillDamage": 10,
+            "skillDescription": "Your arrows deal %33 more damage."
+        },
+
+        {
+            "skillLevel": 5,
+            "skillCooldown": 0.75,
+            "skillDamage": 12.5,
+            "skillDescription": "Your arrows deal %25 more damage, and their cooldown has been reduced by %25."
+        }
+    ],
+
+    "shuriken": 
+    [
+        {
+            "skillLevel": 1,
+            "skillCooldown": 3,
+            "skillDamage": 10,
+            "skillDescription": "A shuriken will open the way for you."
+        },
+
+        {
+            "skillLevel": 2,
+            "skillCooldown": 2,
+            "skillDamage": 10,
+            "skillDescription": "Cooldown has been reduced by %33."
+        },
+
+        {
+            "skillLevel": 3,
+            "skillCooldown": 2,
+            "skillDamage": 15,
+            "skillDescription": "Your shurikens deal %50 more damage."
+        },
+
+        {
+            "skillLevel": 4,
+            "skillCooldown": 1.5,
+            "skillDamage": 15,
+            "skillDescription": "Cooldown has been reduced by %25."
+        },
+
+        {
+            "skillLevel": 5,
+            "skillCooldown": 1,
+            "skillDamage": 20,
+            "skillDescription": "Your shurikens deal %33 more damage and their cooldown has been reduced by %33."
+        }
+    ],
+
+    "knife":
+    [
+        {
+            "skillLevel": 1,
+            "skillCooldown": 20,
+            "skillDamage": 10,
+            "skillDescription": "A circle of knives will protect you from coming enemies.",
+            "amountOfKnives": 4
+        },
+
+        {
+            "skillLevel": 2,
+            "skillCooldown": 20,
+            "skillDamage": 10,
+            "skillDescription": "You create 2 more knife.",
+            "amountOfKnives": 6
+        },
+
+        {
+            "skillLevel": 3,
+            "skillCooldown": 20,
+            "skillDamage": 10,
+            "skillDescription": "You create 2 more knife.",
+            "amountOfKnives": 8
+        },
+
+        {
+            "skillLevel": 4,
+            "skillCooldown": 20,
+            "skillDamage": 12,
+            "skillDescription": "You create 2 more knife and their damage will increase by %20.",
+            "amountOfKnives": 8
+        },
+
+        {
+            "skillLevel": 5,
+            "skillCooldown": 20,
+            "skillDamage": 15,
+            "skillDescription": "You create 4 more knife and their damage will increase by %25.",
+            "amountOfKnives": 12
+        } 
+    ],
+
+    "attackDamagePassive":
+    [
+        {
+            "skillLevel": 1,
+            "attackBoostMultiplier": 15,
+            "skillDescription": "Your attacks deal %15 more damage."
+        },
+
+        {
+            "skillLevel": 2,
+            "attackBoostMultiplier": 20,
+            "skillDescription": "Your attacks deal %20 more damage."
+        },
+
+        {
+            "skillLevel": 3,
+            "attackBoostMultiplier": 30,
+            "skillDescription": "Your attacks deal %30 more damage."
+        },
+
+        {
+            "skillLevel": 4,
+            "attackBoostMultiplier": 40,
+            "skillDescription": "Your attacks deal %40 more damage."
+        }
+    ],
+
+    "armorPassive":
+    [
+        {
+            "skillLevel": 1,
+            "armor": 5,
+            "skillDescription": "You gain 5 armor."
+        },
+
+        {
+            "skillLevel": 2,
+            "armor": 10,
+            "skillDescription": "You gain 10 armor."
+        },
+
+        {
+            "skillLevel": 3,
+            "armor": 15,
+            "skillDescription": "You gain 15 armor."
+        },
+
+        {
+            "skillLevel": 4,
+            "armor": 20,
+            "skillDescription": "You gain 20 armor."
+        }
+    ],
+
+    "healthPassive":
+    [
+        {
+            "skillLevel": 1,
+            "hp": 25,
+            "skillDescription": "Your max health will increase by 25."
+        },
+
+        {
+            "skillLevel": 2,
+            "hp": 50,
+            "skillDescription": "Your max health will increase by 50."
+        },
+
+        {
+            "skillLevel": 3,
+            "hp": 75,
+            "skillDescription": "Your max health will increase by 75."
+        },
+
+        {
+            "skillLevel": 4,
+            "hp": 100,
+            "skillDescription": "Your max health will increase by 100."
+        }
+    ],
+
+    "evasionPassive":
+    [
+        {
+            "skillLevel": 1,
+            "evasionRate": 5,
+            "skillDescription": "You have +%5 chance to evade attacks."
+        },
+
+        {
+            "skillLevel": 2,
+            "evasionRate": 10,
+            "skillDescription": "You have +%10 chance to evade attacks."
+        },
+
+        {
+            "skillLevel": 3,
+            "evasionRate": 15,
+            "skillDescription": "You have +%15 chance to evade attacks."
+        },
+
+        {
+            "skillLevel": 4,
+            "evasionRate": 20,
+            "skillDescription": "You have +%20 chance to evade attacks."
+        }
+    ],
+
+    "critChancePassive":
+    [
+        {
+            "skillLevel": 1,
+            "critChance": 5,
+            "skillDescription": "You have +%5 chance to deal critical damage."
+        },
+
+        {
+            "skillLevel": 2,
+            "critChance": 10,
+            "skillDescription": "You have +%10 chance to deal critical damage."
+        },
+
+        {
+            "skillLevel": 3,
+            "critChance": 15,
+            "skillDescription": "You have +%15 chance to deal critical damage."
+        },
+
+        {
+            "skillLevel": 4,
+            "critChance": 20,
+            "skillDescription": "You have +%20 chance to deal critical damage."
+        }
+    ],
+
+    "critDamagePassive":
+    [
+        {
+            "skillLevel": 1,
+            "critDamage": 25,
+            "skillDescription": "Your critical damage will increase by %25."
+        },
+
+        {
+            "skillLevel": 2,
+            "critDamage": 50,
+            "skillDescription": "Your critical damage will increase by %50."
+        },
+
+        {
+            "skillLevel": 3,
+            "critDamage": 100,
+            "skillDescription": "Your critical damage will increase by %100."
+        },
+
+        {
+            "skillLevel": 4,
+            "critDamage": 150,
+            "skillDescription": "Your critical damage will increase by %150."
+        }
+    ],
+
+    "attackSpeedPassive":
+    [
+        {
+            "skillLevel": 1,
+            "attackSpeedBoost": 10,
+            "skillDescription": "Your attack speed will increase by %10."
+        },
+
+        {
+            "skillLevel": 2,
+            "attackSpeedBoost": 20,
+            "skillDescription": "Your attack speed will increase by %20."
+        },
+
+        {
+            "skillLevel": 3,
+            "attackSpeedBoost": 30,
+            "skillDescription": "Your attack speed will increase by %30."
+        },
+
+        {
+            "skillLevel": 4,
+            "attackSpeedBoost": 50,
+            "skillDescription": "Your attack speed will increase by %50."
+        }
+    ]
+}

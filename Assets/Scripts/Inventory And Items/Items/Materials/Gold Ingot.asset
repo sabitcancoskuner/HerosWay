@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af15c4966274efd46b8c27de7e355339, type: 3}
+  m_Name: Gold Ingot
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: Gold Ingot
+  icon: {fileID: 7774254553147042332, guid: 90bf7d3c918183a4d8dd9ebd93c3b5b8, type: 3}
+  itemId: 719541ea54b29bf4aa7e72a236f196cc
+  dropChance: 20
