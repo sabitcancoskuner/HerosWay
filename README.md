@@ -1,11 +1,13 @@
 # Hero's Way ⚔️
 
-**Hero's Way** is a fast-paced Action RPG built in Unity that blends roguelike decision-making with deep character customization. It is **WIP.** 
+**Hero's Way** is a fast-paced Action RPG built in Unity that blends roguelike decision-making with deep character customization.
 
 Battle your way through challenging levels and build your ultimate warrior. At the end of each stage, you choose one of three powerful **Upgrade Cards** to define your run. But survival isn't just about the cards you draw—it's about the gear you wield. Manage a full inventory, equip legendary loot, and permanently push your RPG stats to the limit to create unstoppable builds.
 
-<img width="1920" height="1080" alt="gameplay+(1)" src="https://github.com/user-attachments/assets/eada1645-8548-470d-a2df-f7aed1f0a0b5" />
+> **🕰️ Project Status: Legacy Portfolio Piece**
+> *This is an older, uncompleted project. While I am no longer actively developing it, it remains in my portfolio to showcase my early systems architecture and my journey with Unity and C#.*
 
+<img width="1920" height="1080" alt="gameplay+(1)" src="https://github.com/user-attachments/assets/eada1645-8548-470d-a2df-f7aed1f0a0b5" />
 
 ## 🎮 Core Gameplay Mechanics
 
